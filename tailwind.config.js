@@ -12,14 +12,14 @@ module.exports = {
           css: {
             pre: {
               padding: "0",
-              color: "#1F2933",
-              backgroundColor: "#F3F3F3"
+              color: "#ffffff",
+              backgroundColor: "#333333"
             },
             code: {
               padding: "0.2em 0.4em",
-              backgroundColor: "#F3F3F3",
-              color: "#DD1144",
-              fontWeight: "400",
+              backgroundColor: "#333333",
+              color: "#ffffff",
+              fontWeight: "300",
               "border-radius": "0.25rem"
             },
             "code::before": false,
