@@ -3,15 +3,15 @@ baseurl: "/tailpages" # the name of your github repo
 url: "https://harrywang.github.io" # the url of your github pages
 
 # site information used in page title, meta data etc.
-title: "Tailpages: Tailwind + Github Pages"
-description: A Github Pages (Jekyll) template based on TailwindCSS
+title: "Nox"
+description: Nox Film Studio
 
 # color theme for links
-theme-color: indigo # indigo|yellow|pink|green|stone|
+theme-color: stone # indigo|yellow|pink|green|stone|
 
 # homepage information
-author: Satoshi Nakamoto
-author-bio: Creator of Bitcoin  # change to false to hide
+author: Nox Film Studio
+author-bio: false  # change to false to hide
 author-image: 279.png  # file must be in the /assets/img/ folder
 
 # navigation menu
@@ -20,27 +20,27 @@ show-nav-menu: true
 nav-menu:
 - text: About
   permalink: about
-- text: Bitcoin
-  permalink: bitcoin
+- text: Contact
+  permalink: contact
 - text: Blog
   permalink: blog
 
 # use false to turn off any social media links
-twitter: https://twitter.com/
-facebook: https://facebook.com/
-instagram: https://instagram.com/
-github: https://github.com/
-linkedin: https://linkedin.com/
+twitter: false
+facebook: false
+instagram: false
+github: false
+linkedin: false
 medium: false
 google-scholar: false
 email: false
 
 # footer information
-footer-msg: "Powered by Tailpages"
-footer-msg-link: https://github.com/harrywang/tailpages
+footer-msg: "Coming Soon"
+footer-msg-link: https://noxfs.com
 
 # google analytics
-google-analytics: G-WCRC1TC2V5
+google-analytics: false
 
 # jekyll plugins - no need to change
 plugins:
