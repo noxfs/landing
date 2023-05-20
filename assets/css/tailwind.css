@@ -698,6 +698,11 @@ Ensure the default browser behavior of the `hidden` attribute.
   background-color: rgb(224 231 255 / var(--tw-bg-opacity));
 }
 
+.bg-dark {
+  --tw-bg-opacity: 1;
+  background-color: #333333;
+}
+
 .bg-transparent {
   background-color: transparent;
 }
