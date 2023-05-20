@@ -10,7 +10,7 @@ description: Nox Film Studio
 theme-color: stone # indigo|yellow|pink|green|stone|
 
 # homepage information
-author: Nox Film Studio
+author: Nox
 author-bio: false  # change to false to hide
 author-image: 279.png  # file must be in the /assets/img/ folder
 
