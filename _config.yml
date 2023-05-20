@@ -1,6 +1,6 @@
 # change the followings to match your Github username and repo name
-baseurl: "/landing" # the name of your github repo
-url: "https://noxfs.github.io" # the url of your github pages
+baseurl: "/" # the name of your github repo
+url: "https://noxfs.com" # the url of your github pages
 
 # site information used in page title, meta data etc.
 title: "Nox"
